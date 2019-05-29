@@ -12,6 +12,7 @@ public class TestController {
 		System.out.println("呱呱呱");
 		System.out.println("哈哈哈");
 		System.out.println("再来一次");
+		System.out.println("哈哈");
 		return "Hello Word!";
 	}
 

@@ -13,6 +13,7 @@ public class Util {
 		// TODO Auto-generated method stub
 		System.out.println("哈哈哈");
 		System.out.println("ooo");
+		System.out.println("ooo");
 	}
 
 }
